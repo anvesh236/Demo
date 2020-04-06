@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66" started-at="2020-04-01T11:09:24 IST" finished-at="2020-04-01T11:09:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66" started-at="2020-04-01T11:09:24 IST" finished-at="2020-04-01T11:09:24 IST">
+      <class name="Java.BreakStatement">
+        <test-method status="PASS" signature="Loop()[pri:0, instance:Java.BreakStatement@2a17b7b6]" name="Loop" duration-ms="26" started-at="2020-04-01T11:09:24 IST" finished-at="2020-04-01T11:09:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loop -->
+      </class> <!-- Java.BreakStatement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
